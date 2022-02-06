@@ -1,4 +1,4 @@
-# Hank Hill JS
+# Hank Hill Hotkey
 Easter egg hotkeys for Hank Hill images and soundbytes
 
 ## Usage
